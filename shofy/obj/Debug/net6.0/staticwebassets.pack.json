@@ -1,0 +1,1381 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\shofy.bundle.scp.css",
+      "PackagePath": "staticwebassets\\shofy.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\Admin\\css\\maps\\style.css.map",
+      "PackagePath": "staticwebassets\\Admin\\css\\maps\\style.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\Admin\\css\\style.css",
+      "PackagePath": "staticwebassets\\Admin\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\Admin\\fonts\\Roboto\\Roboto-Black.eot",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\Roboto\\Roboto-Black.eot"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\Admin\\fonts\\Roboto\\Roboto-Black.ttf",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\Roboto\\Roboto-Black.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\Admin\\fonts\\Roboto\\Roboto-Black.woff",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\Roboto\\Roboto-Black.woff"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\Admin\\fonts\\Roboto\\Roboto-Black.woff2",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\Roboto\\Roboto-Black.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\Admin\\fonts\\Roboto\\Roboto-Bold.eot",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\Roboto\\Roboto-Bold.eot"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\Admin\\fonts\\Roboto\\Roboto-Bold.ttf",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\Roboto\\Roboto-Bold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\Admin\\fonts\\Roboto\\Roboto-Bold.woff",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\Roboto\\Roboto-Bold.woff"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\Admin\\fonts\\Roboto\\Roboto-Bold.woff2",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\Roboto\\Roboto-Bold.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\Admin\\fonts\\Roboto\\Roboto-Light.eot",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\Roboto\\Roboto-Light.eot"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\Admin\\fonts\\Roboto\\Roboto-Light.ttf",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\Roboto\\Roboto-Light.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\Admin\\fonts\\Roboto\\Roboto-Light.woff",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\Roboto\\Roboto-Light.woff"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\Admin\\fonts\\Roboto\\Roboto-Light.woff2",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\Roboto\\Roboto-Light.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\Admin\\fonts\\Roboto\\Roboto-Medium.eot",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\Roboto\\Roboto-Medium.eot"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\Admin\\fonts\\Roboto\\Roboto-Medium.ttf",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\Roboto\\Roboto-Medium.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\Admin\\fonts\\Roboto\\Roboto-Medium.woff",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\Roboto\\Roboto-Medium.woff"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\Admin\\fonts\\Roboto\\Roboto-Medium.woff2",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\Roboto\\Roboto-Medium.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\Admin\\fonts\\Roboto\\Roboto-Regular.eot",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\Roboto\\Roboto-Regular.eot"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\Admin\\fonts\\Roboto\\Roboto-Regular.ttf",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\Roboto\\Roboto-Regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\Admin\\fonts\\Roboto\\Roboto-Regular.woff",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\Roboto\\Roboto-Regular.woff"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\Admin\\fonts\\Roboto\\Roboto-Regular.woff2",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\Roboto\\Roboto-Regular.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\Admin\\images\\auth\\lockscreen-bg.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\auth\\lockscreen-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\Admin\\images\\auth\\login-bg.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\auth\\login-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\Admin\\images\\auth\\register-bg.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\auth\\register-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\Admin\\images\\faces\\face1.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\faces\\face1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\Admin\\images\\faces\\face10.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\faces\\face10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\Admin\\images\\faces\\face11.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\faces\\face11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\Admin\\images\\faces\\face12.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\faces\\face12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\Admin\\images\\faces\\face13.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\faces\\face13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\Admin\\images\\faces\\face14.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\faces\\face14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\Admin\\images\\faces\\face15.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\faces\\face15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\Admin\\images\\faces\\face16.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\faces\\face16.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\Admin\\images\\faces\\face17.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\faces\\face17.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\Admin\\images\\faces\\face18.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\faces\\face18.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\Admin\\images\\faces\\face19.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\faces\\face19.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\Admin\\images\\faces\\face2.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\faces\\face2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\Admin\\images\\faces\\face20.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\faces\\face20.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\Admin\\images\\faces\\face21.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\faces\\face21.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\Admin\\images\\faces\\face22.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\faces\\face22.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\Admin\\images\\faces\\face23.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\faces\\face23.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\Admin\\images\\faces\\face24.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\faces\\face24.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\Admin\\images\\faces\\face25.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\faces\\face25.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\Admin\\images\\faces\\face26.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\faces\\face26.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\Admin\\images\\faces\\face27.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\faces\\face27.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\Admin\\images\\faces\\face3.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\faces\\face3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\Admin\\images\\faces\\face4.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\faces\\face4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\Admin\\images\\faces\\face5.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\faces\\face5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\Admin\\images\\faces\\face6.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\faces\\face6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\Admin\\images\\faces\\face7.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\faces\\face7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\Admin\\images\\faces\\face8.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\faces\\face8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\Admin\\images\\faces\\face9.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\faces\\face9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\Admin\\images\\favicon.png",
+      "PackagePath": "staticwebassets\\Admin\\images\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\Admin\\images\\logo-mini.svg",
+      "PackagePath": "staticwebassets\\Admin\\images\\logo-mini.svg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\Admin\\images\\logo.svg",
+      "PackagePath": "staticwebassets\\Admin\\images\\logo.svg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\Admin\\js\\Chart.min.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\Chart.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\Admin\\js\\chart.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\chart.js"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\Admin\\js\\dashboard.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\dashboard.js"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\Admin\\js\\data-table.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\data-table.js"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\Admin\\js\\dataTables.bootstrap4.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\dataTables.bootstrap4.js"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\Admin\\js\\documentation.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\documentation.js"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\Admin\\js\\file-upload.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\file-upload.js"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\Admin\\js\\hoverable-collapse.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\hoverable-collapse.js"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\Admin\\js\\jquery.dataTables.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\jquery.dataTables.js"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\Admin\\js\\off-canvas.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\off-canvas.js"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\Admin\\js\\tabs.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\tabs.js"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\Admin\\js\\template.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\template.js"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\Admin\\partials\\_footer.html",
+      "PackagePath": "staticwebassets\\Admin\\partials\\_footer.html"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\Admin\\partials\\_navbar.html",
+      "PackagePath": "staticwebassets\\Admin\\partials\\_navbar.html"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\Admin\\partials\\_settings-panel.html",
+      "PackagePath": "staticwebassets\\Admin\\partials\\_settings-panel.html"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\Admin\\partials\\_sidebar.html",
+      "PackagePath": "staticwebassets\\Admin\\partials\\_sidebar.html"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\Admin\\scss\\_background.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\_background.scss"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\Admin\\scss\\_demo.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\_demo.scss"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\Admin\\scss\\_fonts.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\_fonts.scss"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\Admin\\scss\\_footer.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\_footer.scss"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\Admin\\scss\\_functions.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\_functions.scss"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\Admin\\scss\\_layouts.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\_layouts.scss"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\Admin\\scss\\_misc.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\_misc.scss"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\Admin\\scss\\_navbar.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\_navbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\Admin\\scss\\_reset.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\_reset.scss"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\Admin\\scss\\_sidebar.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\_sidebar.scss"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\Admin\\scss\\_typography.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\_typography.scss"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\Admin\\scss\\_utilities.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\Admin\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\Admin\\scss\\_vertical-wrapper.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\_vertical-wrapper.scss"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\Admin\\scss\\components\\_badges.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\components\\_badges.scss"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\Admin\\scss\\components\\_bootstrap-progress.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\components\\_bootstrap-progress.scss"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\Admin\\scss\\components\\_buttons.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\components\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\Admin\\scss\\components\\_cards.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\components\\_cards.scss"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\Admin\\scss\\components\\_checkbox-radio.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\components\\_checkbox-radio.scss"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\Admin\\scss\\components\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\components\\_dropdown.scss"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\Admin\\scss\\components\\_forms.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\components\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\Admin\\scss\\components\\_icons.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\components\\_icons.scss"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\Admin\\scss\\components\\_lists.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\components\\_lists.scss"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\Admin\\scss\\components\\_tables.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\components\\_tables.scss"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\Admin\\scss\\components\\plugin-overrides\\_data-tables.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\components\\plugin-overrides\\_data-tables.scss"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\Admin\\scss\\landing-screens\\_auth.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\landing-screens\\_auth.scss"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\Admin\\scss\\mixins\\_animation.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\mixins\\_animation.scss"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\Admin\\scss\\mixins\\_badges.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\mixins\\_badges.scss"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\Admin\\scss\\mixins\\_blockqoute.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\mixins\\_blockqoute.scss"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\Admin\\scss\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\Admin\\scss\\mixins\\_cards.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\mixins\\_cards.scss"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\Admin\\scss\\mixins\\_misc.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\mixins\\_misc.scss"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\Admin\\scss\\style.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\style.scss"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\Admin\\vendors\\base\\vendor.bundle.base.css",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\base\\vendor.bundle.base.css"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\Admin\\vendors\\base\\vendor.bundle.base.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\base\\vendor.bundle.base.js"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\Admin\\vendors\\chart.js\\Chart.min.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\chart.js\\Chart.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\Admin\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.css",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.css"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\Admin\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.js"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\Admin\\vendors\\datatables.net\\jquery.dataTables.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\datatables.net\\jquery.dataTables.js"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\Admin\\vendors\\mdi\\css\\materialdesignicons.min.css",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\mdi\\css\\materialdesignicons.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\Admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.eot",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\Admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.svg",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\Admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.ttf",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\Admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\Admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff2",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\assets\\css\\blog.css",
+      "PackagePath": "staticwebassets\\assets\\css\\blog.css"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\assets\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\assets\\css\\contact.css",
+      "PackagePath": "staticwebassets\\assets\\css\\contact.css"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\assets\\css\\detail.css",
+      "PackagePath": "staticwebassets\\assets\\css\\detail.css"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\assets\\css\\login.css",
+      "PackagePath": "staticwebassets\\assets\\css\\login.css"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\assets\\css\\register.css",
+      "PackagePath": "staticwebassets\\assets\\css\\register.css"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\assets\\css\\shop.css",
+      "PackagePath": "staticwebassets\\assets\\css\\shop.css"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\assets\\css\\slick.css",
+      "PackagePath": "staticwebassets\\assets\\css\\slick.css"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\assets\\css\\style.css",
+      "PackagePath": "staticwebassets\\assets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\assets\\css\\venobox.css",
+      "PackagePath": "staticwebassets\\assets\\css\\venobox.css"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\assets\\fonts\\Jost\\Jost-Italic-VariableFont_wght.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Jost\\Jost-Italic-VariableFont_wght.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\assets\\fonts\\Jost\\Jost-VariableFont_wght.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Jost\\Jost-VariableFont_wght.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\assets\\fonts\\Jost\\OFL.txt",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Jost\\OFL.txt"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\assets\\fonts\\Jost\\README.txt",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Jost\\README.txt"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\assets\\fonts\\Jost\\static\\Jost-Black.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Jost\\static\\Jost-Black.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\assets\\fonts\\Jost\\static\\Jost-BlackItaic.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Jost\\static\\Jost-BlackItaic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\assets\\fonts\\Jost\\static\\Jost-Bold.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Jost\\static\\Jost-Bold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\assets\\fonts\\Jost\\static\\Jost-BoldItalic.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Jost\\static\\Jost-BoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\assets\\fonts\\Jost\\static\\Jost-ExtraBold.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Jost\\static\\Jost-ExtraBold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\assets\\fonts\\Jost\\static\\Jost-ExtraBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Jost\\static\\Jost-ExtraBoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\assets\\fonts\\Jost\\static\\Jost-ExtraLight.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Jost\\static\\Jost-ExtraLight.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\assets\\fonts\\Jost\\static\\Jost-ExtraLightItalic.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Jost\\static\\Jost-ExtraLightItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\assets\\fonts\\Jost\\static\\Jost-Italic.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Jost\\static\\Jost-Italic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\assets\\fonts\\Jost\\static\\Jost-Light.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Jost\\static\\Jost-Light.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\assets\\fonts\\Jost\\static\\Jost-LightItalic.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Jost\\static\\Jost-LightItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\assets\\fonts\\Jost\\static\\Jost-Medium.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Jost\\static\\Jost-Medium.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\assets\\fonts\\Jost\\static\\Jost-MediumItalic.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Jost\\static\\Jost-MediumItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\assets\\fonts\\Jost\\static\\Jost-Regular.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Jost\\static\\Jost-Regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\assets\\fonts\\Jost\\static\\Jost-SemiBold.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Jost\\static\\Jost-SemiBold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\assets\\fonts\\Jost\\static\\Jost-SemiBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Jost\\static\\Jost-SemiBoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\assets\\fonts\\Jost\\static\\Jost-Thin.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Jost\\static\\Jost-Thin.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\assets\\fonts\\Jost\\static\\Jost-ThinItalic.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Jost\\static\\Jost-ThinItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\assets\\icons\\chevron-left.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\chevron-left.svg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\assets\\icons\\chevron-right.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\chevron-right.svg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\assets\\icons\\close.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\close.svg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\assets\\icons\\express.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\express.svg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\assets\\icons\\favicon.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\favicon.svg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\assets\\icons\\feature-1.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\feature-1.svg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\assets\\icons\\feature-2.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\feature-2.svg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\assets\\icons\\feature-3.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\feature-3.svg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\assets\\icons\\feature-4.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\feature-4.svg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\assets\\icons\\hamburger.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\hamburger.svg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\assets\\icons\\hello-login.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\hello-login.svg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\assets\\icons\\hotline.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\hotline.svg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\assets\\icons\\language-flag.webp",
+      "PackagePath": "staticwebassets\\assets\\icons\\language-flag.webp"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\assets\\icons\\letter.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\letter.svg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\assets\\icons\\location.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\location.svg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\assets\\icons\\logo.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\logo.svg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\assets\\icons\\product-cat-1.webp",
+      "PackagePath": "staticwebassets\\assets\\icons\\product-cat-1.webp"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\assets\\icons\\product-cat-2.webp",
+      "PackagePath": "staticwebassets\\assets\\icons\\product-cat-2.webp"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\assets\\icons\\product-cat-3.webp",
+      "PackagePath": "staticwebassets\\assets\\icons\\product-cat-3.webp"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\assets\\icons\\product-cat-4.webp",
+      "PackagePath": "staticwebassets\\assets\\icons\\product-cat-4.webp"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\assets\\icons\\product-cat-5.webp",
+      "PackagePath": "staticwebassets\\assets\\icons\\product-cat-5.webp"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\assets\\icons\\search.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\search.svg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\assets\\icons\\tab-active.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\tab-active.svg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\assets\\icons\\title-decor.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\title-decor.svg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\assets\\icons\\toggle.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\toggle.svg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\assets\\images\\1316baf5-7a66-4983-a26d-c85e9eda4bba-551x323-1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\1316baf5-7a66-4983-a26d-c85e9eda4bba-551x323-1.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\assets\\images\\13405c91-3e50-41f2-98a1-4933e2ae7709-bayraq.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\13405c91-3e50-41f2-98a1-4933e2ae7709-bayraq.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\assets\\images\\28fa252c-3e88-48e0-aa2e-d9a5cf8fc9c7-551x323-1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\28fa252c-3e88-48e0-aa2e-d9a5cf8fc9c7-551x323-1.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\assets\\images\\2e3eb4db-da62-435c-9542-4bd7abd4f9d7-1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\2e3eb4db-da62-435c-9542-4bd7abd4f9d7-1.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\assets\\images\\929b9f54-e3bf-4bf3-a571-48ef66dd4c62-appgallery.png",
+      "PackagePath": "staticwebassets\\assets\\images\\929b9f54-e3bf-4bf3-a571-48ef66dd4c62-appgallery.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\assets\\images\\a4915b9f-5626-4e64-9ea6-bde7e4dfd0b6-area@3x.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\a4915b9f-5626-4e64-9ea6-bde7e4dfd0b6-area@3x.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\assets\\images\\apple.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\apple.svg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\assets\\images\\b140dcc4-4010-4fc5-af24-ceff62365dba-area@3x.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\b140dcc4-4010-4fc5-af24-ceff62365dba-area@3x.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\assets\\images\\b9d3a34e-d85b-4a19-a9c4-a37d91da0973-area@3x.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\b9d3a34e-d85b-4a19-a9c4-a37d91da0973-area@3x.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\assets\\images\\backgroundimg1234321.jpeg",
+      "PackagePath": "staticwebassets\\assets\\images\\backgroundimg1234321.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\assets\\images\\banner-slider-2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\banner-slider-2.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\assets\\images\\banner-slider-2.webp",
+      "PackagePath": "staticwebassets\\assets\\images\\banner-slider-2.webp"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\assets\\images\\banner-slider-3.webp",
+      "PackagePath": "staticwebassets\\assets\\images\\banner-slider-3.webp"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\assets\\images\\banner-slider-offer.webp",
+      "PackagePath": "staticwebassets\\assets\\images\\banner-slider-offer.webp"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\assets\\images\\blog-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\assets\\images\\blog-1.webp",
+      "PackagePath": "staticwebassets\\assets\\images\\blog-1.webp"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\assets\\images\\blog-2.webp",
+      "PackagePath": "staticwebassets\\assets\\images\\blog-2.webp"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\assets\\images\\blog-3.webp",
+      "PackagePath": "staticwebassets\\assets\\images\\blog-3.webp"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\assets\\images\\blog-big-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog-big-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\assets\\images\\blog-big-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog-big-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\assets\\images\\blog-big-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog-big-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\assets\\images\\blog-big-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog-big-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\assets\\images\\blog-sidebar-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog-sidebar-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\assets\\images\\blog-sidebar-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog-sidebar-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\assets\\images\\blog-sidebar-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog-sidebar-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\assets\\images\\blutooth-1 (1).png",
+      "PackagePath": "staticwebassets\\assets\\images\\blutooth-1 (1).png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\assets\\images\\blutooth-1234567.png",
+      "PackagePath": "staticwebassets\\assets\\images\\blutooth-1234567.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\assets\\images\\blutooth-4.webp",
+      "PackagePath": "staticwebassets\\assets\\images\\blutooth-4.webp"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\assets\\images\\breadcrumb-bg-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\breadcrumb-bg-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\assets\\images\\category-main-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\category-main-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\assets\\images\\check-2.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\check-2.svg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\assets\\images\\check.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\check.svg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\assets\\images\\contact-icon-1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\contact-icon-1.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\assets\\images\\contact-icon-2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\contact-icon-2.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\assets\\images\\contact-icon-3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\contact-icon-3.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\assets\\images\\cpu-1.webp",
+      "PackagePath": "staticwebassets\\assets\\images\\cpu-1.webp"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\assets\\images\\cpu-5.webp",
+      "PackagePath": "staticwebassets\\assets\\images\\cpu-5.webp"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\assets\\images\\d14b87bf-6596-4296-99ee-80f3fa5f93b4-551x323-1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\d14b87bf-6596-4296-99ee-80f3fa5f93b4-551x323-1.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\assets\\images\\d94ad413-00f1-4318-a656-6635c6ee0959-appgallery.png",
+      "PackagePath": "staticwebassets\\assets\\images\\d94ad413-00f1-4318-a656-6635c6ee0959-appgallery.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\assets\\images\\f83b3cb4-39ca-4657-98ac-2f8ebb8c26a6-1024x684-4.jpg.webp",
+      "PackagePath": "staticwebassets\\assets\\images\\f83b3cb4-39ca-4657-98ac-2f8ebb8c26a6-1024x684-4.jpg.webp"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\assets\\images\\facebook.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\facebook.svg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\assets\\images\\footer-pay.png",
+      "PackagePath": "staticwebassets\\assets\\images\\footer-pay.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\assets\\images\\footer-pay.webp",
+      "PackagePath": "staticwebassets\\assets\\images\\footer-pay.webp"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\assets\\images\\gadget-banner-1.cb01b29d.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\gadget-banner-1.cb01b29d.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\assets\\images\\gadget-banner-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\gadget-banner-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\assets\\images\\gadget-girl.png",
+      "PackagePath": "staticwebassets\\assets\\images\\gadget-girl.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\assets\\images\\gadget-girl.webp",
+      "PackagePath": "staticwebassets\\assets\\images\\gadget-girl.webp"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\assets\\images\\google.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\google.svg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\assets\\images\\headphone-1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\headphone-1.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\assets\\images\\headphone-5.webp",
+      "PackagePath": "staticwebassets\\assets\\images\\headphone-5.webp"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\assets\\images\\headphone-8.webp",
+      "PackagePath": "staticwebassets\\assets\\images\\headphone-8.webp"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\assets\\images\\instagram-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\instagram-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\assets\\images\\instagram-1.webp",
+      "PackagePath": "staticwebassets\\assets\\images\\instagram-1.webp"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\assets\\images\\instagram-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\instagram-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\assets\\images\\instagram-2.webp",
+      "PackagePath": "staticwebassets\\assets\\images\\instagram-2.webp"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\assets\\images\\instagram-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\instagram-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\assets\\images\\instagram-3.webp",
+      "PackagePath": "staticwebassets\\assets\\images\\instagram-3.webp"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\assets\\images\\instagram-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\instagram-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\assets\\images\\instagram-4.webp",
+      "PackagePath": "staticwebassets\\assets\\images\\instagram-4.webp"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\assets\\images\\instagram-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\instagram-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\assets\\images\\instagram-5.webp",
+      "PackagePath": "staticwebassets\\assets\\images\\instagram-5.webp"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\assets\\images\\ipad-1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\ipad-1.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\assets\\images\\login1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\login1.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\assets\\images\\login2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\login2.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\assets\\images\\login3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\login3.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\assets\\images\\login4.png",
+      "PackagePath": "staticwebassets\\assets\\images\\login4.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\assets\\images\\logo copy.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\logo copy.svg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\assets\\images\\logo.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\logo.svg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\assets\\images\\logo_01.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logo_01.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\assets\\images\\logo_02.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logo_02.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\assets\\images\\logo_03.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logo_03.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\assets\\images\\logo_04.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logo_04.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\assets\\images\\logo_05.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logo_05.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\assets\\images\\logo_06.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logo_06.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\assets\\images\\logo_07.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logo_07.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\assets\\images\\logo_08.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logo_08.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\assets\\images\\menu-home-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\menu-home-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\assets\\images\\menu-home-1.webp",
+      "PackagePath": "staticwebassets\\assets\\images\\menu-home-1.webp"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\assets\\images\\menu-home-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\menu-home-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\assets\\images\\menu-home-2.webp",
+      "PackagePath": "staticwebassets\\assets\\images\\menu-home-2.webp"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\assets\\images\\menu-home-3.webp",
+      "PackagePath": "staticwebassets\\assets\\images\\menu-home-3.webp"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\assets\\images\\menu-home-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\menu-home-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\assets\\images\\menu-home-4.webp",
+      "PackagePath": "staticwebassets\\assets\\images\\menu-home-4.webp"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\assets\\images\\menu-home-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\menu-home-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\assets\\images\\menu-product-img-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\menu-product-img-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\assets\\images\\menu-product-img-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\menu-product-img-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\assets\\images\\mobile-123.png",
+      "PackagePath": "staticwebassets\\assets\\images\\mobile-123.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\assets\\images\\mobile-5.webp",
+      "PackagePath": "staticwebassets\\assets\\images\\mobile-5.webp"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\assets\\images\\plane.png",
+      "PackagePath": "staticwebassets\\assets\\images\\plane.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\assets\\images\\plane.webp",
+      "PackagePath": "staticwebassets\\assets\\images\\plane.webp"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\assets\\images\\prodcut-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\prodcut-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\assets\\images\\prodcut-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\prodcut-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\assets\\images\\product-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\assets\\images\\product-12.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product-12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\assets\\images\\product-13.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product-13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\assets\\images\\product-14.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product-14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\assets\\images\\product-15.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product-15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\assets\\images\\product-16.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product-16.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\assets\\images\\product-17.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product-17.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\assets\\images\\product-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\assets\\images\\product-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\assets\\images\\product-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\assets\\images\\product-5-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product-5-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\assets\\images\\product-5-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product-5-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\assets\\images\\product-5-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product-5-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\assets\\images\\product-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\assets\\images\\product-6.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\assets\\images\\product-7.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\assets\\images\\product-8.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\assets\\images\\product-9.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product-9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\assets\\images\\product-banner-1.b6611c92.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product-banner-1.b6611c92.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\assets\\images\\product-banner-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product-banner-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\assets\\images\\product-banner-2.f1357985.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product-banner-2.f1357985.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\assets\\images\\product-banner-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product-banner-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\assets\\images\\product-cat-1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\product-cat-1.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\assets\\images\\product-cat-1.webp",
+      "PackagePath": "staticwebassets\\assets\\images\\product-cat-1.webp"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\assets\\images\\product-cat-2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\product-cat-2.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\assets\\images\\product-cat-2.webp",
+      "PackagePath": "staticwebassets\\assets\\images\\product-cat-2.webp"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\assets\\images\\product-cat-3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\product-cat-3.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\assets\\images\\product-cat-3.webp",
+      "PackagePath": "staticwebassets\\assets\\images\\product-cat-3.webp"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\assets\\images\\product-cat-4.png",
+      "PackagePath": "staticwebassets\\assets\\images\\product-cat-4.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\assets\\images\\product-cat-4.webp",
+      "PackagePath": "staticwebassets\\assets\\images\\product-cat-4.webp"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\assets\\images\\product-cat-5.png",
+      "PackagePath": "staticwebassets\\assets\\images\\product-cat-5.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\assets\\images\\product-cat-5.webp",
+      "PackagePath": "staticwebassets\\assets\\images\\product-cat-5.webp"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\assets\\images\\product-offer-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product-offer-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\assets\\images\\product-offer-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product-offer-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\assets\\images\\product-offer-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product-offer-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\assets\\images\\product-sm-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product-sm-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\assets\\images\\product-sm-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product-sm-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\assets\\images\\product-sm-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product-sm-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\assets\\images\\shop-sm-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\shop-sm-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\assets\\images\\shop-sm-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\shop-sm-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\assets\\images\\shop-sm-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\shop-sm-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\assets\\images\\shop-sm-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\shop-sm-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\assets\\images\\signature.png",
+      "PackagePath": "staticwebassets\\assets\\images\\signature.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\assets\\images\\slider-img-1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\slider-img-1.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\assets\\images\\slider-img-1.webp",
+      "PackagePath": "staticwebassets\\assets\\images\\slider-img-1.webp"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\assets\\images\\slider-img-2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\slider-img-2.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\assets\\images\\slider-img-2.webp",
+      "PackagePath": "staticwebassets\\assets\\images\\slider-img-2.webp"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\assets\\images\\slider-img-3.webp",
+      "PackagePath": "staticwebassets\\assets\\images\\slider-img-3.webp"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\assets\\images\\slider-shape-1.webp",
+      "PackagePath": "staticwebassets\\assets\\images\\slider-shape-1.webp"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\assets\\images\\slider-shape-3.webp",
+      "PackagePath": "staticwebassets\\assets\\images\\slider-shape-3.webp"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\assets\\images\\slider-shape-4.webp",
+      "PackagePath": "staticwebassets\\assets\\images\\slider-shape-4.webp"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\assets\\images\\subscribe-shape-1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\subscribe-shape-1.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\assets\\images\\subscribe-shape-1.webp",
+      "PackagePath": "staticwebassets\\assets\\images\\subscribe-shape-1.webp"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\assets\\images\\subscribe-shape-3.webp",
+      "PackagePath": "staticwebassets\\assets\\images\\subscribe-shape-3.webp"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\assets\\images\\subscribe-shape-4.png",
+      "PackagePath": "staticwebassets\\assets\\images\\subscribe-shape-4.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\assets\\images\\subscribe-shape-4.webp",
+      "PackagePath": "staticwebassets\\assets\\images\\subscribe-shape-4.webp"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\assets\\images\\tablet-slider-1.webp",
+      "PackagePath": "staticwebassets\\assets\\images\\tablet-slider-1.webp"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\assets\\images\\tr-1.webp",
+      "PackagePath": "staticwebassets\\assets\\images\\tr-1.webp"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\assets\\images\\tr-2.webp",
+      "PackagePath": "staticwebassets\\assets\\images\\tr-2.webp"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\assets\\images\\tr-3.webp",
+      "PackagePath": "staticwebassets\\assets\\images\\tr-3.webp"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\assets\\images\\tr-4.webp",
+      "PackagePath": "staticwebassets\\assets\\images\\tr-4.webp"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\assets\\images\\user-11.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\user-11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\assets\\images\\watch-1.webp",
+      "PackagePath": "staticwebassets\\assets\\images\\watch-1.webp"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\assets\\images\\watch-5.webp",
+      "PackagePath": "staticwebassets\\assets\\images\\watch-5.webp"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\assets\\images\\watch-9.webp",
+      "PackagePath": "staticwebassets\\assets\\images\\watch-9.webp"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\assets\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\assets\\js\\home.js",
+      "PackagePath": "staticwebassets\\assets\\js\\home.js"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\assets\\js\\index.js",
+      "PackagePath": "staticwebassets\\assets\\js\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\assets\\js\\jquery-1.12.4.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery-1.12.4.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\assets\\js\\mixitup.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\mixitup.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\assets\\js\\script.js",
+      "PackagePath": "staticwebassets\\assets\\js\\script.js"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\assets\\js\\shop.js",
+      "PackagePath": "staticwebassets\\assets\\js\\shop.js"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\assets\\js\\slick.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\slick.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\shofy-back\\shofy\\shofy\\wwwroot\\assets\\js\\venobox.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\venobox.min.js"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.shofy.props",
+      "PackagePath": "build\\shofy.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.shofy.props",
+      "PackagePath": "buildMultiTargeting\\shofy.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.shofy.props",
+      "PackagePath": "buildTransitive\\shofy.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.shofy.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

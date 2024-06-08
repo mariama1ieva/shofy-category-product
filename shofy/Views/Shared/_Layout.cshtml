@@ -1,0 +1,1067 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="./assets/css/style.css" />
+
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"
+      integrity="sha512-iecdLmaskl7CVkqkXNQ/ZH/XLlvWZOJyj7Yy7tcenmpD1ypASozpmT/E0iPtmFIB46ZmdtAc9eNBvH0H/ZpiBw=="
+      crossorigin="anonymous"
+      referrerpolicy="no-referrer"
+    />
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+      integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC"
+      crossorigin="anonymous"
+    />
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/swiper@10/swiper-bundle.min.css"
+    />
+    <title>Shofy - Multipurpose eCommerce Angular Template</title>
+    <link
+      rel="icon"
+      type="image/x-icon"
+      href="https://shofy-angular.vercel.app/favicon.ico"
+    />
+  </head>
+  <body>
+    <header class="header">
+      <div class="header-top d-none d-md-flex align-items-center">
+        <div class="container">
+          <div class="row align-items-center">
+            <div class="col-md-6">
+              <div class="free-express d-flex align-items-center">
+                <span>
+                  <img src="assets/icons/express.svg" alt="free shipping" />
+                </span>
+                <span> FREE Express Shipping On Orders $570+ </span>
+              </div>
+            </div>
+            <div class="col-md-6">
+              <ul
+                role="option"
+                class="header-settings d-flex align-items-center justify-content-end p-0 m-0"
+              >
+                <li class="position-relative">
+                  <span class="d-flex align-items-center" data-dropdown="button"
+                    >English
+                    <i
+                      class="fa-regular fa-chevron-down"
+                      style="color: #ffffff"
+                    ></i
+                  ></span>
+                  <ul class="language-menu dp-menu m-0" data-dropdown="menu">
+                    <li><a href="" class="text-decoration-none">Spanish</a></li>
+                    <li><a href="" class="text-decoration-none">Russian</a></li>
+                    <li>
+                      <a href="" class="text-decoration-none">Portuegese</a>
+                    </li>
+                  </ul>
+                </li>
+                <li class="position-relative">
+                  <span class="d-flex align-items-center" data-dropdown="button"
+                    >USD
+                    <i
+                      class="fa-regular fa-chevron-down"
+                      style="color: #ffffff"
+                    ></i
+                  ></span>
+                  <ul class="currency-menu dp-menu m-0" data-dropdown="menu">
+                    <li>
+                      <a href="" class="text-decoration-none text-uppercase"
+                        >EUR</a
+                      >
+                    </li>
+                    <li>
+                      <a href="" class="text-decoration-none text-uppercase"
+                        >CHF</a
+                      >
+                    </li>
+                    <li>
+                      <a href="" class="text-decoration-none text-uppercase"
+                        >GBP</a
+                      >
+                    </li>
+                    <li>
+                      <a href="" class="text-decoration-none text-uppercase"
+                        >KWD</a
+                      >
+                    </li>
+                  </ul>
+                </li>
+                <li class="position-relative">
+                  <span class="align-items-center" data-dropdown="button"
+                    >Setting
+                    <i
+                      class="fa-regular fa-chevron-down"
+                      style="color: #ffffff"
+                    ></i
+                  ></span>
+                  <ul
+                    class="setting-menu dp-menu list-unstyled m-0"
+                    data-dropdown="menu"
+                  >
+                    <li>
+                      <a href="" class="text-decoration-none">My Profile</a>
+                    </li>
+                    <li>
+                      <a href="" class="text-decoration-none">Wishlist</a>
+                    </li>
+                    <li><a href="" class="text-decoration-none">Cart</a></li>
+                    <li><a href="" class="text-decoration-none">Login</a></li>
+                  </ul>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="header-main container">
+        <div class="row align-items-center">
+          <div class="col-xl-2 col-lg-2 col-md-4 col">
+            <div class="logo-wrapper">
+              <a href="index.html"
+                ><img src="assets/icons/logo.svg" alt="logo"
+              /></a>
+            </div>
+          </div>
+          <div class="col-xl-6 col-lg-7 d-none d-lg-block">
+            <form action="" class="header-form d-none d-lg-block">
+              <div class="search-wrapper d-flex align-items-center">
+                <input
+                  type="text"
+                  name="headerSearch"
+                  id="headerSearch"
+                  class="header-search form-control bg-transparent"
+                  placeholder="Search for products..."
+                />
+                <div
+                  class="search-category d-flex align-items-center"
+                  role="button"
+                >
+                  <span>Select Category</span>
+                  <i
+                    class="fa-regular fa-chevron-down"
+                    style="
+                      color: #010f1c;
+                      font-weight: 600;
+                      font-size: 12px;
+                      transition: all 0.2s ease;
+                    "
+                  ></i>
+                  <ul
+                    class="search-category-list bg-white list-unstyled"
+                    role="menubar"
+                  >
+                    <li class="selected" data-value="Select Category">
+                      Select Category
+                    </li>
+                    <li data-value="electronics">Electronics</li>
+                    <li data-value="fashion">Fashion</li>
+                    <li data-value="beauty">Beauty</li>
+                    <li data-value="jewelry">Jewelry</li>
+                  </ul>
+                </div>
+                <button type="submit" class="search-btn border-0">
+                  <img src="assets/icons/search.svg" alt="" />
+                </button>
+              </div>
+            </form>
+          </div>
+          <div class="col-xl-4 col-lg-3 col-md-8 col">
+            <div
+              class="header-main-right d-flex align-items-center justify-content-end"
+            >
+              <div class="hello-login d-none d-lg-flex align-items-center">
+                <div class="hello-login__icon">
+                  <img src="assets/icons/hello-login.svg" alt="user" />
+                </div>
+                <div class="hello-login__content d-xl-flex flex-column">
+                  <span class="hello"
+                    ><a href="" class="text-decoration-none"
+                      >Hello, Sign in</a
+                    ></span
+                  >
+                  <span class="hello-sign-in"
+                    ><a
+                      href=""
+                      style="color: #010f1c"
+                      class="text-decoration-none"
+                      >Your Account</a
+                    ></span
+                  >
+                </div>
+              </div>
+              <div class="header-right__action d-flex align-items-center">
+                <button
+                  type="button"
+                  class="compare-btn d-none d-lg-block bg-transparent border-0"
+                >
+                  <span>
+                    <svg
+                      width="20"
+                      height="19"
+                      viewBox="0 0 20 19"
+                      fill="none"
+                      xmlns="http://www.w3.org/2000/svg"
+                    >
+                      <path
+                        d="M14.8396 17.3319V3.71411"
+                        stroke="currentColor"
+                        stroke-width="1.5"
+                        stroke-linecap="round"
+                        stroke-linejoin="round"
+                      ></path>
+                      <path
+                        d="M19.1556 13L15.0778 17.0967L11 13"
+                        stroke="currentColor"
+                        stroke-width="1.5"
+                        stroke-linecap="round"
+                        stroke-linejoin="round"
+                      ></path>
+                      <path
+                        d="M4.91115 1.00056V14.6183"
+                        stroke="currentColor"
+                        stroke-width="1.5"
+                        stroke-linecap="round"
+                        stroke-linejoin="round"
+                      ></path>
+                      <path
+                        d="M0.833496 5.09667L4.91127 1L8.98905 5.09667"
+                        stroke="currentColor"
+                        stroke-width="1.5"
+                        stroke-linecap="round"
+                        stroke-linejoin="round"
+                      ></path>
+                    </svg>
+                  </span>
+                </button>
+                <div class="header-badge d-none d-lg-block position-relative">
+                  <button type="button" class="border-0 bg-transparent">
+                    <svg
+                      width="20"
+                      height="19"
+                      viewBox="0 0 20 19"
+                      fill="none"
+                      xmlns="http://www.w3.org/2000/svg"
+                    >
+                      <path
+                        fill-rule="evenodd"
+                        clip-rule="evenodd"
+                        d="M1.78158 8.88867C3.15121 13.1386 8.5623 16.5749 10.0003 17.4255C11.4432 16.5662 16.8934 13.0918 18.219 8.89257C19.0894 6.17816 18.2815 2.73984 15.0714 1.70806C13.5162 1.21019 11.7021 1.5132 10.4497 2.4797C10.1879 2.68041 9.82446 2.68431 9.56069 2.48555C8.23405 1.49079 6.50102 1.19947 4.92136 1.70806C1.71613 2.73887 0.911158 6.17718 1.78158 8.88867ZM10.0013 19C9.88015 19 9.75999 18.9708 9.65058 18.9113C9.34481 18.7447 2.14207 14.7852 0.386569 9.33491C0.385592 9.33491 0.385592 9.33394 0.385592 9.33394C-0.71636 5.90244 0.510636 1.59018 4.47199 0.316764C6.33203 -0.283407 8.35911 -0.019371 9.99836 1.01242C11.5868 0.0108324 13.6969 -0.26587 15.5198 0.316764C19.4851 1.59213 20.716 5.90342 19.615 9.33394C17.9162 14.7218 10.6607 18.7408 10.353 18.9094C10.2436 18.9698 10.1224 19 10.0013 19Z"
+                        fill="currentColor"
+                      ></path>
+                      <path
+                        fill-rule="evenodd"
+                        clip-rule="evenodd"
+                        d="M15.7806 7.42904C15.4025 7.42904 15.0821 7.13968 15.0508 6.75775C14.9864 5.95687 14.4491 5.2807 13.6841 5.03421C13.2983 4.9095 13.0873 4.49737 13.2113 4.11446C13.3373 3.73059 13.7467 3.52209 14.1335 3.6429C15.4651 4.07257 16.398 5.24855 16.5123 6.63888C16.5445 7.04127 16.2446 7.39397 15.8412 7.42612C15.8206 7.42807 15.8011 7.42904 15.7806 7.42904Z"
+                        fill="currentColor"
+                      ></path>
+                    </svg>
+                  </button>
+                  <span class="badge-count position-absolute">0</span>
+                </div>
+                <div class="header-badge position-relative">
+                  <button type="button" class="border-0 bg-transparent">
+                    <svg
+                      width="21"
+                      height="22"
+                      viewBox="0 0 21 22"
+                      fill="none"
+                      xmlns="http://www.w3.org/2000/svg"
+                    >
+                      <path
+                        fill-rule="evenodd"
+                        clip-rule="evenodd"
+                        d="M6.48626 20.5H14.8341C17.9004 20.5 20.2528 19.3924 19.5847 14.9348L18.8066 8.89359C18.3947 6.66934 16.976 5.81808 15.7311 5.81808H5.55262C4.28946 5.81808 2.95308 6.73341 2.4771 8.89359L1.69907 14.9348C1.13157 18.889 3.4199 20.5 6.48626 20.5Z"
+                        stroke="currentColor"
+                        stroke-width="1.5"
+                        stroke-linecap="round"
+                        stroke-linejoin="round"
+                      ></path>
+                      <path
+                        d="M6.34902 5.5984C6.34902 3.21232 8.28331 1.27803 10.6694 1.27803V1.27803C11.8184 1.27316 12.922 1.72619 13.7362 2.53695C14.5504 3.3477 15.0081 4.44939 15.0081 5.5984V5.5984"
+                        stroke="currentColor"
+                        stroke-width="1.5"
+                        stroke-linecap="round"
+                        stroke-linejoin="round"
+                      ></path>
+                      <path
+                        d="M7.70365 10.1018H7.74942"
+                        stroke="currentColor"
+                        stroke-width="1.5"
+                        stroke-linecap="round"
+                        stroke-linejoin="round"
+                      ></path>
+                      <path
+                        d="M13.5343 10.1018H13.5801"
+                        stroke="currentColor"
+                        stroke-width="1.5"
+                        stroke-linecap="round"
+                        stroke-linejoin="round"
+                      ></path>
+                    </svg>
+                  </button>
+                  <span class="badge-count position-absolute">0</span>
+                </div>
+                <button
+                  type="button"
+                  class="toggle-btn d-block d-lg-none border-0 bg-transparent"
+                >
+                  <img src="assets/icons/hamburger.svg" alt="hamburger menu" />
+                </button>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="header-bottom position-relative container">
+        <div class="row align-items-center">
+          <div class="col-xl-3 col-lg-3">
+            <div class="d-none d-lg-block position-relative">
+              <button
+                type="button"
+                data-dropdown="all_departments"
+                class="all-departments-btn d-flex align-items-center justify-content-between border-0"
+              >
+                <span>
+                  <img src="assets/icons/toggle.svg" alt="toggle" />
+                  All Categories
+                </span>
+                <i
+                  class="fa-regular fa-chevron-down"
+                  style="color: #fff; font-weight: 600; font-size: 12px"
+                ></i>
+              </button>
+              <nav aria-label="departments">
+                <ul class="departmens-list list-unstyled mb-0">
+                  <li class="position-relative">
+                    <a
+                      href="#"
+                      class="d-flex align-items-center text-decoration-none"
+                      ><span
+                        ><img
+                          src="~/assets/images/product-cat-1.webp"
+                          alt="product"
+                        />Headphones</span
+                      >
+                      <i
+                        class="fa-solid fa-chevron-right ms-auto"
+                        style="font-weight: 700; font-size: 10px"
+                      ></i
+                    ></a>
+                    <ul class="departmens-sublist list-unstyled mb-0">
+                      <li class="position-relative">
+                        <a
+                          href="#"
+                          class="d-flex align-items-center text-decoration-none"
+                          ><span>Kid Headphones</span></a
+                        >
+                      </li>
+                      <li class="position-relative">
+                        <a
+                          href="#"
+                          class="d-flex align-items-center text-decoration-none"
+                          ><span>Bluetooth Headphones</span></a
+                        >
+                      </li>
+                      <li class="position-relative">
+                        <a
+                          href="#"
+                          class="d-flex align-items-center text-decoration-none"
+                          ><span>On-Ear Headphones</span></a
+                        >
+                      </li>
+                    </ul>
+                  </li>
+                  <li class="position-relative">
+                    <a
+                      href="#"
+                      class="d-flex align-items-center text-decoration-none"
+                      ><span
+                        ><img
+                          src="~/assets/images/product-cat-2.webp"
+                          alt="product"
+                        />Mobile Tablets</span
+                      >
+                      <i
+                        class="fa-solid fa-chevron-right ms-auto"
+                        style="font-weight: 700; font-size: 10px"
+                      ></i
+                    ></a>
+                    <ul class="departmens-sublist list-unstyled mb-0">
+                      <li class="position-relative">
+                        <a
+                          href="#"
+                          class="d-flex align-items-center text-decoration-none"
+                          ><span>Samsungs</span></a
+                        >
+                      </li>
+                      <li class="position-relative">
+                        <a
+                          href="#"
+                          class="d-flex align-items-center text-decoration-none"
+                          ><span>Apple</span></a
+                        >
+                      </li>
+                    </ul>
+                  </li>
+                  <li class="position-relative">
+                    <a
+                      href="#"
+                      class="d-flex align-items-center text-decoration-none"
+                      ><span
+                        ><img
+                          src="~/assets/images/product-cat-3.webp"
+                          alt="product"
+                        />CPU Heat Pipes</span
+                      >
+                      <i
+                        class="fa-solid fa-chevron-right ms-auto"
+                        style="font-weight: 700; font-size: 10px"
+                      ></i
+                    ></a>
+                    <ul class="departmens-sublist list-unstyled mb-0">
+                      <li class="position-relative">
+                        <a
+                          href="#"
+                          class="d-flex align-items-center text-decoration-none"
+                          ><span>CPU Cooler</span></a
+                        >
+                      </li>
+                      <li class="position-relative">
+                        <a
+                          href="#"
+                          class="d-flex align-items-center text-decoration-none"
+                          ><span>Air CPU Cooler</span></a
+                        >
+                      </li>
+                    </ul>
+                  </li>
+                  <li class="position-relative">
+                    <a
+                      href="#"
+                      class="d-flex align-items-center text-decoration-none"
+                      ><span
+                        ><img
+                          src="~/assets/images/product-cat-4.webp"
+                          alt="product"
+                        />Smart Watch</span
+                      >
+                      <i
+                        class="fa-solid fa-chevron-right ms-auto"
+                        style="font-weight: 700; font-size: 10px"
+                      ></i
+                    ></a>
+                    <ul class="departmens-sublist list-unstyled mb-0">
+                      <li class="position-relative">
+                        <a
+                          href="#"
+                          class="d-flex align-items-center text-decoration-none"
+                          ><span>Sports Smart Watch</span></a
+                        >
+                      </li>
+                      <li class="position-relative">
+                        <a
+                          href="#"
+                          class="d-flex align-items-center text-decoration-none"
+                          ><span>Apple Watch</span></a
+                        >
+                      </li>
+                      <li class="position-relative">
+                        <a
+                          href="#"
+                          class="d-flex align-items-center text-decoration-none"
+                          ><span>Fitness Smart Watch</span></a
+                        >
+                      </li>
+                    </ul>
+                  </li>
+                  <li class="position-relative">
+                    <a
+                      href="#"
+                      class="d-flex align-items-center text-decoration-none"
+                      ><span
+                        ><img
+                          src="~/assets/images/product-cat-5.webp"
+                          alt="product"
+                        />Bluetooth</span
+                      >
+                      <i
+                        class="fa-solid fa-chevron-right ms-auto"
+                        style="font-weight: 700; font-size: 10px"
+                      ></i
+                    ></a>
+                    <ul class="departmens-sublist list-unstyled mb-0">
+                      <li class="position-relative">
+                        <a
+                          href="#"
+                          class="d-flex align-items-center text-decoration-none"
+                          ><span>Wireless Bluetooth</span></a
+                        >
+                      </li>
+                      <li class="position-relative">
+                        <a
+                          href="#"
+                          class="d-flex align-items-center text-decoration-none"
+                          ><span>Sports Bluetooth</span></a
+                        >
+                      </li>
+                    </ul>
+                  </li>
+                </ul>
+              </nav>
+            </div>
+          </div>
+          <div class="col-xl-6 col-lg-6">
+            <nav
+              class="primary-nav d-none d-lg-block flex-grow-1"
+              aria-label="primary"
+            >
+              <ul
+                class="primary-list d-flex align-items-center list-unstyled m-0 p-0"
+              >
+                <li>
+                  <a
+                    href="#"
+                    class="d-flex align-items-center text-decoration-none"
+                    ><span>Home</span
+                    ><i
+                      class="fa-regular fa-chevron-down"
+                      style="font-weight: 600; font-size: 12px"
+                    ></i
+                  ></a>
+                  
+                </li>
+                <li class="position-relative">
+                  <a
+                    href="#"
+                    class="d-flex align-items-center text-decoration-none"
+                    ><span>Shop</span
+                    ><i
+                      class="fa-regular fa-chevron-down"
+                      style="font-weight: 600; font-size: 12px"
+                    ></i
+                  ></a>
+                </li>
+
+                <li>
+                  <a
+                    href="#"
+                    class="d-flex align-items-center text-decoration-none"
+                    ><span>Products</span
+                    ><i
+                      class="fa-regular fa-chevron-down"
+                      style="font-weight: 600; font-size: 12px"
+                    ></i
+                  ></a>
+                  <div class="product-menu mega-menu d-flex">
+                    <ul
+                      class="product-menu-ul list-unstyled d-flex flex-column flex-grow-1"
+                    >
+                      <li class="product-list-title">
+                        <a href="" class="text-decoration-none">Shop Page</a>
+                      </li>
+                      <li>
+                        <a href="" class="text-decoration-none"
+                          >Only Categories</a
+                        >
+                      </li>
+                      <li>
+                        <a href="" class="text-decoration-none"
+                          >Shop Grid with Sidebar</a
+                        >
+                      </li>
+                      <li>
+                        <a href="" class="text-decoration-none"
+                          >Product Details</a
+                        >
+                      </li>
+                    </ul>
+                    <ul
+                      class="product-menu-ul list-unstyled d-flex flex-column flex-grow-1"
+                    >
+                      <li class="product-list-title">
+                        <a href="" class="text-decoration-none">Products</a>
+                      </li>
+                      <li>
+                        <a href="" class="text-decoration-none"
+                          >Product Simple</a
+                        >
+                      </li>
+                      <li>
+                        <a href="" class="text-decoration-none">With Video</a>
+                      </li>
+                      <li>
+                        <a href="" class="text-decoration-none"
+                          >With Countdown Timer</a
+                        >
+                      </li>
+                      <li>
+                        <a href="" class="text-decoration-none"
+                          >Variations Swatches</a
+                        >
+                      </li>
+                    </ul>
+                    <ul
+                      class="product-menu-ul list-unstyled d-flex flex-column flex-grow-1"
+                    >
+                      <li class="product-list-title">
+                        <a href="" class="text-decoration-none">eCommerce</a>
+                      </li>
+                      <li>
+                        <a href="" class="text-decoration-none"
+                          >Shopping Cart</a
+                        >
+                      </li>
+                      <li>
+                        <a href="" class="text-decoration-none">Compare</a>
+                      </li>
+                      <li>
+                        <a href="" class="text-decoration-none">Wishlist</a>
+                      </li>
+                      <li>
+                        <a href="" class="text-decoration-none">Checkout</a>
+                      </li>
+                      <li>
+                        <a href="" class="text-decoration-none">My Account</a>
+                      </li>
+                    </ul>
+                    <ul
+                      class="product-menu-ul list-unstyled d-flex flex-column flex-grow-1"
+                    >
+                      <li class="product-list-title">
+                        <a href="" class="text-decoration-none">More Pages</a>
+                      </li>
+                      <li><a href="" class="text-decoration-none">Login</a></li>
+                      <li>
+                        <a href="" class="text-decoration-none">Register</a>
+                      </li>
+                      <li>
+                        <a href="" class="text-decoration-none"
+                          >Forgot Password</a
+                        >
+                      </li>
+                      <li>
+                        <a href="" class="text-decoration-none">404 Error</a>
+                      </li>
+                    </ul>
+                  </div>
+                </li>
+                <li>
+                  <a
+                    href="#"
+                    class="d-flex align-items-center text-decoration-none"
+                    >Coupons</a
+                  >
+                </li>
+                <li class="position-relative">
+                  <a
+                    href="#"
+                    class="d-flex align-items-center text-decoration-none"
+                    ><span>Blog</span
+                    ><i
+                      class="fa-regular fa-chevron-down"
+                      style="font-weight: 600; font-size: 12px"
+                    ></i
+                  ></a>
+                  <ul class="primary-sub-menu list-unstyled m-0">
+                    <li>
+                      <a href="" class="text-decoration-none">Blog Standart</a>
+                    </li>
+                    <li>
+                      <a href="" class="text-decoration-none">Blog Grid</a>
+                    </li>
+                    <li>
+                      <a href="" class="text-decoration-none">Blog List</a>
+                    </li>
+                    <li>
+                      <a href="" class="text-decoration-none">Blog Details</a>
+                    </li>
+                    <li>
+                      <a href="" class="text-decoration-none"
+                        >Blog Details Full Width</a
+                      >
+                    </li>
+                  </ul>
+                </li>
+                <li>
+                  <a
+                    href="#"
+                    class="d-flex align-items-center text-decoration-none"
+                    >Contact</a
+                  >
+                </li>
+              </ul>
+            </nav>
+          </div>
+          <div class="col-xl-3 col-lg-3">
+            <div
+              class="hotline d-none d-lg-flex align-items-center flex-grow-1 justify-content-end"
+            >
+              <div class="hotline-icon">
+                <img src="assets/icons/hotline.svg" alt="" />
+              </div>
+              <div class="hotline__details">
+                <h5 class="hotline__label m-0">Hotline:</h5>
+                <a href="tel:402-763-282-46" class="text-decoration-none"
+                  >+(402) 763 282 46</a
+                >
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="header-scroll">
+          <div class="custom-container container">
+              <div class="row align-items-center position-relative">
+                  <div class="col-xl-3 col-lg-3 col-md-3 col-6">
+                      <div class="logo-wrapper">
+                          <a href="index.html"><img src="assets/icons/logo.svg" alt="logo"></a>
+                      </div>
+                  </div>
+                  <div class="col-xl-6 col-lg-6 col-md-6 d-none d-md-block">
+                      <nav class="primary-nav d-none d-lg-block flex-grow-1" aria-label="primary">
+                          <ul class="primary-list d-flex align-items-center list-unstyled m-0 p-0">
+                              <li>
+                                  <a href="#"
+                                      class="d-flex align-items-center text-decoration-none"><span>Home</span><i
+                                          class="fa-regular fa-chevron-down"
+                                          style="font-weight: 600; font-size: 12px;"></i></a>
+                                  <div class="home-menu mega-menu">
+                                      <div class="row row-cols-1 row-cols-lg-4 row-cols-xl-4">
+                                          <div class="col">
+                                              <div class="home-menu-item">
+                                                  <a href="#"
+                                                      class="text-decoration-none d-flex flex-column align-items-center">
+                                                      <div class="home-menu-item-img">
+                                                          <div
+                                                              class="home-menu-overlayer position-absolute start-0 end-0 bottom-0 top-0">
+                                                          </div>
+                                                          <img src="~/assets/images/menu-home-1.webp"
+                                                              class="w-100 h-100" alt="electronics">
+                                                      </div>
+                                                      <div class="home-menu-item-content">
+                                                          <h5 class="home-menu-item-title mb-0">
+                                                              Electronics
+                                                          </h5>
+                                                      </div>
+                                                  </a>
+                                              </div>
+                                          </div>
+                                          <div class="col">
+                                              <div class="home-menu-item">
+                                                  <a href="#"
+                                                      class="text-decoration-none d-flex flex-column align-items-center">
+                                                      <div class="home-menu-item-img">
+                                                          <div
+                                                              class="home-menu-overlayer position-absolute start-0 end-0 bottom-0 top-0">
+                                                          </div>
+                                                          <img src="~/assets/images/menu-home-2.webp"
+                                                              class="w-100 h-100" alt="fashion">
+                                                      </div>
+                                                      <div class="home-menu-item-content">
+                                                          <h5 class="home-menu-item-title mb-0">
+                                                              Fashion
+                                                          </h5>
+                                                      </div>
+                                                  </a>
+                                              </div>
+                                          </div>
+                                          <div class="col">
+                                              <div class="home-menu-item">
+                                                  <a href="#"
+                                                      class="text-decoration-none d-flex flex-column align-items-center">
+                                                      <div class="home-menu-item-img">
+                                                          <div
+                                                              class="home-menu-overlayer position-absolute start-0 end-0 bottom-0 top-0">
+                                                          </div>
+                                                          <img src="~/assets/images/menu-home-3.webp"
+                                                              class="w-100 h-100" alt="beauty">
+                                                      </div>
+                                                      <div class="home-menu-item-content">
+                                                          <h5 class="home-menu-item-title mb-0">
+                                                              Beauty
+                                                          </h5>
+                                                      </div>
+                                                  </a>
+                                              </div>
+                                          </div>
+                                          <div class="col">
+                                              <div class="home-menu-item">
+                                                  <a href="#"
+                                                      class="text-decoration-none d-flex flex-column align-items-center">
+                                                      <div class="home-menu-item-img">
+                                                          <div
+                                                              class="home-menu-overlayer position-absolute start-0 end-0 bottom-0 top-0">
+                                                          </div>
+                                                          <img src="~/assets/images/menu-home-4.webp"
+                                                              class="w-100 h-100" alt="jewelry">
+                                                      </div>
+                                                      <div class="home-menu-item-content">
+                                                          <h5 class="home-menu-item-title mb-0">
+                                                              Jewelry
+                                                          </h5>
+                                                      </div>
+                                                  </a>
+                                              </div>
+                                          </div>
+                                      </div>
+                                  </div>
+                              </li>
+
+                              <li class="position-relative">
+                                  <a href="#"
+                                      class="d-flex align-items-center text-decoration-none"><span>Shop</span><i
+                                          class="fa-regular fa-chevron-down"
+                                          style="font-weight: 600; font-size: 12px;"></i></a>
+                                  <ul class="primary-sub-menu list-unstyled m-0">
+                                      <li><a href="" class="text-decoration-none">Shop</a></li>
+                                      <li><a href="" class="text-decoration-none">Right Sidebar</a></li>
+                                      <li><a href="" class="text-decoration-none">Hidden Sidebar</a></li>
+                                  </ul>
+                              </li>
+                              <li>
+                                  <a href="#"
+                                      class="d-flex align-items-center text-decoration-none"><span>Products</span><i
+                                          class="fa-regular fa-chevron-down"
+                                          style="font-weight: 600; font-size: 12px;"></i></a>
+                                  <div class="product-menu mega-menu d-flex">
+                                      <ul class="product-menu-ul list-unstyled d-flex flex-column flex-grow-1">
+                                          <li class="product-list-title"><a href="" class="text-decoration-none">Shop
+                                                  Page</a></li>
+                                          <li><a href="" class="text-decoration-none">Only Categories</a></li>
+                                          <li><a href="" class="text-decoration-none">Shop Grid with Sidebar</a></li>
+                                          <li><a href="" class="text-decoration-none">Product Details</a></li>
+                                      </ul>
+                                      <ul class="product-menu-ul list-unstyled d-flex flex-column flex-grow-1">
+                                          <li class="product-list-title"><a href=""
+                                                  class="text-decoration-none">Productse</a></li>
+                                          <li><a href="" class="text-decoration-none">Product Simple</a></li>
+                                          <li><a href="" class="text-decoration-none">With Video</a></li>
+                                          <li><a href="" class="text-decoration-none">With Countdown Timer</a></li>
+                                          <li><a href="" class="text-decoration-none">Variations Swatches</a></li>
+                                      </ul>
+                                      <ul class="product-menu-ul list-unstyled d-flex flex-column flex-grow-1">
+                                          <li class="product-list-title"><a href=""
+                                                  class="text-decoration-none">eCommerce</a></li>
+                                          <li><a href="" class="text-decoration-none">Shopping Cart</a></li>
+                                          <li><a href="" class="text-decoration-none">Compare</a></li>
+                                          <li><a href="" class="text-decoration-none">Wishlist</a></li>
+                                          <li><a href="" class="text-decoration-none">Checkout</a></li>
+                                          <li><a href="" class="text-decoration-none">My Account</a></li>
+                                      </ul>
+                                      <ul class="product-menu-ul list-unstyled d-flex flex-column flex-grow-1">
+                                          <li class="product-list-title"><a href="" class="text-decoration-none">More
+                                                  Pages</a></li>
+                                          <li><a href="" class="text-decoration-none">Login</a></li>
+                                          <li><a href="" class="text-decoration-none">Register</a></li>
+                                          <li><a href="" class="text-decoration-none">Forgot Password</a></li>
+                                          <li><a href="" class="text-decoration-none">404 Error</a></li>
+                                      </ul>
+                                  </div>
+                              </li>
+                              <li>
+                                  <a href="#" class="d-flex align-items-center text-decoration-none">Coupons</a>
+                              </li>
+                              <li class="position-relative">
+                                  <a href="#"
+                                      class="d-flex align-items-center text-decoration-none"><span>Blog</span><i
+                                          class="fa-regular fa-chevron-down"
+                                          style="font-weight: 600; font-size: 12px;"></i></a>
+                                  <ul class="primary-sub-menu list-unstyled m-0">
+                                      <li><a href="" class="text-decoration-none">Blog Standart</a></li>
+                                      <li><a href="" class="text-decoration-none">Blog Grid</a></li>
+                                      <li><a href="" class="text-decoration-none">Blog List</a></li>
+                                      <li><a href="" class="text-decoration-none">Blog Details</a></li>
+                                      <li><a href="" class="text-decoration-none">Blog Details Full Width</a></li>
+                                  </ul>
+                              </li>
+                              <li>
+                                  <a href="#" class="d-flex align-items-center text-decoration-none">Contact</a>
+                              </li>
+                          </ul>
+                      </nav>
+                  </div>
+                  <div class="col-xl-3 col-lg-3 col-md-3 col-6">
+                      <div class="header-right__action d-flex align-items-center justify-content-end">
+                          <button type="button" class="compare-btn d-none d-lg-block bg-transparent border-0"><span>
+                                  <svg width="20" height="19" viewBox="0 0 20 19" fill="none"
+                                      xmlns="http://www.w3.org/2000/svg">
+                                      <path d="M14.8396 17.3319V3.71411" stroke="currentColor" stroke-width="1.5"
+                                          stroke-linecap="round" stroke-linejoin="round"></path>
+                                      <path d="M19.1556 13L15.0778 17.0967L11 13" stroke="currentColor"
+                                          stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                                      <path d="M4.91115 1.00056V14.6183" stroke="currentColor" stroke-width="1.5"
+                                          stroke-linecap="round" stroke-linejoin="round"></path>
+                                      <path d="M0.833496 5.09667L4.91127 1L8.98905 5.09667" stroke="currentColor"
+                                          stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                                  </svg>
+                              </span>
+                          </button>
+                          <div class="header-badge d-none d-lg-block position-relative">
+                              <button type="button" class="border-0 bg-transparent">
+                                  <svg width="20" height="19" viewBox="0 0 20 19" fill="none"
+                                      xmlns="http://www.w3.org/2000/svg">
+                                      <path fill-rule="evenodd" clip-rule="evenodd"
+                                          d="M1.78158 8.88867C3.15121 13.1386 8.5623 16.5749 10.0003 17.4255C11.4432 16.5662 16.8934 13.0918 18.219 8.89257C19.0894 6.17816 18.2815 2.73984 15.0714 1.70806C13.5162 1.21019 11.7021 1.5132 10.4497 2.4797C10.1879 2.68041 9.82446 2.68431 9.56069 2.48555C8.23405 1.49079 6.50102 1.19947 4.92136 1.70806C1.71613 2.73887 0.911158 6.17718 1.78158 8.88867ZM10.0013 19C9.88015 19 9.75999 18.9708 9.65058 18.9113C9.34481 18.7447 2.14207 14.7852 0.386569 9.33491C0.385592 9.33491 0.385592 9.33394 0.385592 9.33394C-0.71636 5.90244 0.510636 1.59018 4.47199 0.316764C6.33203 -0.283407 8.35911 -0.019371 9.99836 1.01242C11.5868 0.0108324 13.6969 -0.26587 15.5198 0.316764C19.4851 1.59213 20.716 5.90342 19.615 9.33394C17.9162 14.7218 10.6607 18.7408 10.353 18.9094C10.2436 18.9698 10.1224 19 10.0013 19Z"
+                                          fill="currentColor"></path>
+                                      <path fill-rule="evenodd" clip-rule="evenodd"
+                                          d="M15.7806 7.42904C15.4025 7.42904 15.0821 7.13968 15.0508 6.75775C14.9864 5.95687 14.4491 5.2807 13.6841 5.03421C13.2983 4.9095 13.0873 4.49737 13.2113 4.11446C13.3373 3.73059 13.7467 3.52209 14.1335 3.6429C15.4651 4.07257 16.398 5.24855 16.5123 6.63888C16.5445 7.04127 16.2446 7.39397 15.8412 7.42612C15.8206 7.42807 15.8011 7.42904 15.7806 7.42904Z"
+                                          fill="currentColor"></path>
+                                  </svg>
+                              </button>
+                              <span class="badge-count position-absolute">0</span>
+                          </div>
+                          <div class="header-badge position-relative">
+                              <button type="button" class="border-0 bg-transparent">
+                                  <svg width="21" height="22" viewBox="0 0 21 22" fill="none"
+                                      xmlns="http://www.w3.org/2000/svg">
+                                      <path fill-rule="evenodd" clip-rule="evenodd"
+                                          d="M6.48626 20.5H14.8341C17.9004 20.5 20.2528 19.3924 19.5847 14.9348L18.8066 8.89359C18.3947 6.66934 16.976 5.81808 15.7311 5.81808H5.55262C4.28946 5.81808 2.95308 6.73341 2.4771 8.89359L1.69907 14.9348C1.13157 18.889 3.4199 20.5 6.48626 20.5Z"
+                                          stroke="currentColor" stroke-width="1.5" stroke-linecap="round"
+                                          stroke-linejoin="round">
+                                      </path>
+                                      <path
+                                          d="M6.34902 5.5984C6.34902 3.21232 8.28331 1.27803 10.6694 1.27803V1.27803C11.8184 1.27316 12.922 1.72619 13.7362 2.53695C14.5504 3.3477 15.0081 4.44939 15.0081 5.5984V5.5984"
+                                          stroke="currentColor" stroke-width="1.5" stroke-linecap="round"
+                                          stroke-linejoin="round">
+                                      </path>
+                                      <path d="M7.70365 10.1018H7.74942" stroke="currentColor" stroke-width="1.5"
+                                          stroke-linecap="round" stroke-linejoin="round"></path>
+                                      <path d="M13.5343 10.1018H13.5801" stroke="currentColor" stroke-width="1.5"
+                                          stroke-linecap="round" stroke-linejoin="round"></path>
+                                  </svg>
+                              </button>
+                              <span class="badge-count position-absolute">0</span>
+                          </div>
+                          <button type="button" class="toggle-btn d-block d-lg-none border-0 bg-transparent">
+                              <img src="assets/icons/hamburger.svg" alt="hamburger menu">
+                          </button>
+                      </div>
+                  </div>
+              </div>
+          </div>
+      </div>
+    </header>
+    @RenderBody();
+    
+    <footer class="footer">
+        <div class="footer-top">
+            <div class="  container">
+                <div class="row">
+                    <div class="col-xl-4 col-lg-3 col-md-4 col-sm-6">
+                        <div class="footer-widget footer-col-1 d-flex flex-column">
+                            <div class="footer-logo">
+                                <a href="index.html"><img src="assets/icons/logo.svg" alt="logo"></a>
+                            </div>
+                            <p class="footer-desc">
+                                We are a team of designers and developers that create high quality WordPress
+                            </p>
+                            <ul class="footer-socials d-flex align-items-center list-unstyled m-0 p-0">
+                                <li><a href="#" aria-label="facebook"><i class="fa-brands fa-facebook-f"></i></a></li>
+                                <li><a href="#" aria-label="twitter"><i class="fa-brands fa-twitter"></i></a></li>
+                                <li aria-label="linkedin"><a href="#"><i class="fa-brands fa-linkedin-in"></i></a></li>
+                                <li><a href="#" aria-label="vimeo"><i class="fa-brands fa-vimeo-v"></i></a></li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="col-xl-2 col-lg-3 col-md-4 col-sm-6">
+                        <div class="footer-widget footer-col-2">
+                            <p class="footer-widget-title">My Account</p>
+                            <ul class="footer-widget-content-list d-flex flex-column list-unstyled p-0 m-0">
+                                <li><a href="#" class="text-decoration-none">Track Orders</a></li>
+                                <li><a href="#" class="text-decoration-none">Shipping</a></li>
+                                <li><a href="#" class="text-decoration-none">Wishlist</a></li>
+                                <li><a href="#" class="text-decoration-none">My Account</a></li>
+                                <li><a href="#" class="text-decoration-none">Order History</a></li>
+                                <li><a href="#" class="text-decoration-none">Returns</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="col-xl-3 col-lg-3 col-md-4 col-sm-6">
+                        <div class="footer-widget footer-col-3">
+                            <p class="footer-widget-title">Information</p>
+                            <ul class="footer-widget-content-list d-flex flex-column list-unstyled p-0 m-0">
+                                <li><a href="" class="text-decoration-none">Our Story</a></li>
+                                <li><a href="" class="text-decoration-none">Careers</a></li>
+                                <li><a href="" class="text-decoration-none">Privacy Policy</a></li>
+                                <li><a href="" class="text-decoration-none">Terms &amp; Conditions</a></li>
+                                <li><a href="" class="text-decoration-none">Latest News</a></li>
+                                <li><a href="" class="text-decoration-none">Contact Us</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="col-xl-3 col-lg-3 col-md-4 col-sm-6">
+                        <div class="footer-widget footer-col-3">
+                            <p class="footer-widget-title">Talk To Us</p>
+                            <div class="footer-widget-content">
+                                <div class="footer-talk">
+                                    <span>Got Questions? Call us</span>
+                                    <p><a href="tel:670-413-90-762" class="number text-decoration-none m-0">+670 413 90
+                                            762</a></p>
+                                </div>
+                                <div class="footer-contact">
+                                    <div class="footer-contact-item d-flex align-items-start">
+                                        <div class="footer-contact-icon"><img src="assets/icons/letter.svg"
+                                                alt="letter"></div>
+                                        <div class="footer-contact-content">
+                                            <p><a href="mailto:shofy@support.com"
+                                                    class="text-decoration-none">shofy@support.com</a></p>
+                                        </div>
+                                    </div>
+                                    <div class="footer-contact-item d-flex align-items-start">
+                                        <div class="footer-contact-icon"><img src="assets/icons/location.svg" alt="">
+                                        </div>
+                                        <div class="footer-contact-content">
+                                            <p>
+                                                <a href="https://www.google.com/maps/place/Sleepy+Hollow+Rd,+Gouverneur,+NY+13642,+USA/@@44.3304966,-75.4552367,17z/data=!3m1!4b1!4m6!3m5!1s0x4cccddac8972c5eb:0x56286024afff537a!8m2!3d44.3304928!4d-75.453048!16s%2Fg%2F1tdsjdj4"
+                                                    class="text-decoration-none" target="_blank">79 Sleepy Hollow St.
+                                                    <br> Jamaica, New York 1432</a>
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="footer-bottom">
+            <div class=" container">
+                <hr class="mt-5" style="color: #a6acb1;">
+                <div class="row">
+                    <div class="col-md-6">
+                        <p class="copyright">© 2024 All Rights Reserved | Angular Template by <a href="#"
+                                class="text-decoration-none">ThemePure</a>.</p>
+                    </div>
+                    <div class="col-md-6">
+                        <p class="text-md-end"><img src="assets/images/footer-pay.webp" alt=""></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <script
+      src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"
+      integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM"
+      crossorigin="anonymous"
+    ></script>
+    <script src="https://cdn.jsdelivr.net/npm/swiper@10/swiper-bundle.min.js"></script>
+    <script
+      src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.0/jquery.min.js"
+      integrity="sha512-3gJwYpMe3QewGELv8k/BX9vcqhryRdzRMxVfq6ngyWXwo03GFEzjsUm8Q7RZcHPHksttq7/GFoxjCVUjkjvPdw=="
+      crossorigin="anonymous"
+      referrerpolicy="no-referrer"
+    ></script>
+    <script src="~/assets/js/script.js"></script>
+    <script src="~/assets/js/home.js"></script>
+  </body>
+</html>

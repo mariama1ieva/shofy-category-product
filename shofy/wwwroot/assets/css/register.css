@@ -1,0 +1,204 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+a {
+  text-decoration: none !important;
+}
+
+#maintxt h3 {
+  text-align: center;
+  font-size: 44px;
+  font-weight: 600;
+  line-height: 44px;
+}
+
+#maintxt .minis {
+  text-align: center;
+  font-size: 14px;
+  line-height: 26px;
+}
+
+.register p {
+    font-size: 16px;
+    line-height: 26px;
+  }
+  
+  .register a {
+    color: #0989ff;
+    font-size: 16px;
+    line-height: 26px;
+  }
+  
+  .register .social {
+    height: 65.9845px;
+    width: 516.021px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+  }
+  
+  .register .social .google {
+    height: 55.9919px;
+    width: 251.991px;
+    border: 1px solid #e0e2e3;
+    text-align: center;
+    color: #041226;
+    background-color: white;
+    display: flex;
+  }
+  
+  .register .social .google span {
+    padding: 10px;
+  }
+  
+  .register .social .google:hover {
+    height: 55.9919px;
+    width: 251.991px;
+    border: 1px solid #000000;
+  }
+  
+  .register .social .google img {
+    height: 22.0041px;
+    width: 22.0041px;
+  }
+  
+  .register .social .face {
+    height: 55.9919px;
+    width: 97.9996px;
+    border: 1px solid #e0e2e3;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    background-color: white;
+  }
+  
+  .register .social .face:hover {
+    border: 1px solid #000000;
+  }
+  
+#maintxt .minis a {
+  color: black;
+  transition: 0.3s;
+  text-decoration: none;
+}
+
+
+form .check {
+  position: absolute;
+  left: 20px;
+  bottom: 64px;
+}
+
+.btn-primaryss {
+  background-color: #000000 !important;
+  color: rgb(255, 255, 255) !important;
+}
+
+.btn-primaryss:hover {
+  background-color: #0989ff !important;
+}
+
+.form-control {
+  height: 56px !important;
+}
+#maintxt .minis a:hover {
+  color: #0989ff;
+}
+
+#maintxt .minis .acc {
+  margin-left: 10px;
+}
+
+#maintxt .main-area {
+  height: 788.883px;
+  width: 1319.99px;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.register {
+  position: absolute;
+  height: 700.883px;
+  width: 636.007px;
+  padding: 50px 60px 70px 60px;
+  box-shadow: rgba(0, 0, 0, 0.2) 0px 60px 40px -7px;
+  text-align: center;
+}
+
+.register h3 {
+  font-size: 30px;
+  font-weight: 500;
+  line-height: 36px;
+}
+
+.register .social .face img {
+  height: 22.0041px;
+  width: 22.0041px;
+}
+
+.forgot {
+  margin-left: 350px;
+}
+
+.forgot a {
+  text-decoration: none;
+  transition: 0.3s;
+}
+
+.forgot a:hover {
+  text-decoration: underline;
+}
+
+.register .social .apple {
+  text-align: center;
+  height: 55.9919px;
+  width: 97.9996px;
+  border: 1px solid #e0e2e3;
+  display: flex;
+  justify-content: center;
+  background-color: rgb(255, 255, 255);
+}
+
+.register .social .apple:hover {
+  border: 1px solid #000000;
+}
+
+.register .social .apple img {
+  height: 22.0041px;
+  width: 22.0041px;
+}
+
+.social a img {
+  margin-top: 10px;
+}
+
+form {
+  position: relative;
+}
+
+form .email {
+  position: absolute;
+  left: 10px;
+  bottom: 255px !important;
+  background-color: white;
+}
+
+form .password {
+  position: absolute;
+  left: 10px;
+  bottom: 150px;
+  background-color: white;
+}
+
+form .name {
+  position: absolute;
+  left: 10px;
+  bottom: 330px;
+  background-color: white;
+}
